@@ -1,0 +1,3 @@
+pass: $nOKfUHpeu0sfbA{
+user: id16906613_root
+db: id16906613_mands
